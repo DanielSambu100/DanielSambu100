@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielSambu100
+- 👋 Hi, I’m @DanielSambu
 - 👀 I’m interested in devs
 - 🌱 I’m currently learning back-end web development
 - 💞️ I’m looking to collaborate on kissing the code

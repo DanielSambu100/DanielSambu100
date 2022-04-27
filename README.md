@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Dansam Developer.
-- 👀 I’m interested in devs.
-- 🌱 Full-Stack Web. 
-- 💞️ I kiss the code.
+Hey! Thanks for locating Dansam Developer.
+Are you stuck? It's well, please reach out to me via:
 - 📫 daniel.wanyonyi@student.moringaschool.com
+- OR
+- danielsambu100@gmail.com
 - info@dansamsons.co.ke
+
+Glad.
 
 <!---
 DanielSambu100/DanielSambu100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
